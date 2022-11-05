@@ -17,6 +17,7 @@ handled by firebase. Through this project I learnt countless useful skills.
 - Development skills 
 - Web app development
 - Programming in React JS 
+- Coding in HTML 5 and CSS 
 - Handling backend with Firebase
 - Project Documentation and writing readable code
 
