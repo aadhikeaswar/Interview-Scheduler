@@ -13,12 +13,10 @@ Open-source code that I developed to help human resource professionals in schedu
 handled by firebase. Through this project I learnt countless useful skills.
 
 ## Skills Developed:
-- Design skills 
-- Development skills 
-- Web app development
 - Programming in React JS 
 - Coding in HTML 5 and CSS 
 - Handling backend with Firebase
-- Project Documentation and writing readable code
+- Project Documentation 
+- Writing readable code
 
 
