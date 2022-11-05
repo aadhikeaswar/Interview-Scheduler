@@ -5,9 +5,9 @@
 
 **Login with the testing credentials:**
 
-**Username: intsched1@gmail.com**
+Username: intsched1@gmail.com
 
-**Password:** test123
+Password: ***test123***
 
 ## Project Description:
 
